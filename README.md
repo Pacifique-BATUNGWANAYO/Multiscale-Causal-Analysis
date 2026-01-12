@@ -9,4 +9,13 @@ a comprehensive 25-year analysis (2000–2024) integrating satellite-derived veg
 (SM), vapor pressure deficit (VPD), and teleconnections. Using a wavelet-based causal discovery
 (PCMCI) framework, we move beyond correlation to identify the direct drivers of vegetation
 stress.
-## Contents and Code
+## 🔍 Key Findings
+
+- Causal analysis identifies the synergistic effect of soil moisture deficit and high atmospheric dryness (VPD), rather than precipitation or temperature anomalies alone, as the predominant direct driver of vegetation productivity decline in the study region.
+- Croplands and shrublands are significantly more vulnerable to drought than forests.
+- SM, VPD drive short-term stress, while large-scale teleconnections (like ENSO) drive longer-term changes in vegetation dynamics.
+
+## 📈 Methods
+- PCMCI causal discovery
+- Wavelet decomposition (MODWT)
+- 25-year NDVI, SM, VPD, precipitation analysis
